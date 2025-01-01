@@ -26,10 +26,11 @@ ImageEditor is a Flask-based web application that allows users to upload and edi
 
 ## Usage
 
-1. Clone the repository: `https://github.com/skddl007/ImageEditor.git`
+1. Clone the repository: `https://github.com/rajat-malvi/ImageEditor.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python ImageEditor.py`
 4. Access the web interface in your browser: `http://localhost:5000`
+5. link : https://image-editing-a2zj.onrender.com/
 
 ---
 
